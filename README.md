@@ -1,1 +1,1 @@
-https://github.com/KwintenOlaerts/portfolio-website.git
+ https://kwintenolaerts.github.io/portfolio-website/
